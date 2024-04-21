@@ -1,4 +1,4 @@
-# Face-detector-and-blink-couner
+# Face-detector-and-blink-counter
 
 The Face and Eye Detector and Eye Blink Counter is a powerful tool created using Python and OpenCV. This tool can detect faces and eyes within an image or video stream and track the number of times a person blinks their eyes.
 
